@@ -1,9 +1,9 @@
 
 /**
- * Write a description of FindAllUrls here.
- * 
- * @author (your name) 
- * @version (a version number or a date)
+ * This code finds all the URLs in a choosen link and
+ * processes the data.
+ * @author Nirlan Neckir Zamprogno de Souza 
+ * @version 20/03/2016
  */
 
 import edu.duke.*;
